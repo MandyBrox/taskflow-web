@@ -1,0 +1,36 @@
+a:link {color: black}
+.tituloSec{font-size: 30px; font-family: Cambria;}
+
+/*Estilos del header*/
+.tituloPri{text-align: right; color: #3B1C45; font-size: 50px; font-family: Impact;}
+
+.destacada{color: blue; font-size: 20px;}
+
+header{background-color: #F4F5BC; padding: 20px;}
+
+nav ul {list-style: none; display: flex; gap: 15px;}
+
+/*Estilos del formulario*/
+form{border: 10px solid #3B1C45; width: 650px; max-width: 100%; padding: 20px; margin: 30px; background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ZAAMNfrMPUdfJsFrC-nl36bMcqeRrX3zBdguP1otVMjZc35u9WSme7edgEz25dMKvBuyh4P2uvJmKEEpnxnj4znMDRye6l-FI7dz35ebhzMroUAhBTUA_eC6TtSrW6l-qv7qFpGcKik/s1600/wet-graph-paper-seamless-background.jpg);}
+
+#nombre{background-color: #BEF5BC;}
+
+#mail{background-color: #F4F5BC;}
+
+label{color: #332F75}
+label.especial{border-left: dotted #590F0F; border-right: dotted #590F0F;}
+
+#enviar{color: white; background-color: #332F75;}
+
+#borrar{color: white; background-color: #590F0F;}
+
+/*Estilos de la tabla*/
+table, th, td{border: 2px solid #BEF5BC; color: #083314; text-align: center; padding: 10px;}
+
+thead{background-color: #D6D6D6;}
+
+/*Estilos del footer*/
+footer{color: white; text-align: center; background-color: #6B6969;}
+
+
+
