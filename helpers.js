@@ -1,3 +1,0 @@
-function helpers() {
-    console.log(".");
-}
