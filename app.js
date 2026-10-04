@@ -7,7 +7,12 @@ function cadena_mas_larga(cadena1, cadena2){
 
     } else if (typeof cadena1 !== "string" || typeof cadena2 !== "string"){
         console.log("No hay dos cadenas de texto para comparar");
-        
+    function login(usuario, contraseña) {
+    if (usuario === "admin" && contraseña === "1234") {
+        return "Inicio de sesión correcto";
+    }
+    return "Usuario o contraseña incorrectos";
+}  
     }
 
 
