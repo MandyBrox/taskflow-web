@@ -10,6 +10,7 @@ function cadena_mas_larga(cadena1, cadena2){
         
     }
 
+    console.log("---------------------- SEPARADOR ------------------------");
 
 }
 
