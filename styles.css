@@ -1,6 +1,8 @@
 a:link {color: black}
 .tituloSec{font-size: 30px; font-family: Cambria;}
 
+body {background-color: #222222; color: #ffffff;}
+
 /*Estilos del header*/
 .tituloPri{text-align: right; color: #3B1C45; font-size: 50px; font-family: Impact;}
 
